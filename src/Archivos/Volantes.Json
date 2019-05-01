@@ -1,0 +1,222 @@
+[
+  {
+    "tirarCentro": false,
+    "marcaje": false,
+    "nombre": "Jonas",
+    "Apellido": "Gutierrez",
+    "salario": 3500,
+    "VALOR_ATAQUE": 14,
+    "VALOR_DEFENSA": 18,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "tirarCentro": false,
+    "marcaje": false,
+    "nombre": "Santiago",
+    "Apellido": "Ascasibar",
+    "salario": 12000,
+    "VALOR_ATAQUE": 23,
+    "VALOR_DEFENSA": 5,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "tirarCentro": false,
+    "marcaje": false,
+    "nombre": "Juan Roman",
+    "Apellido": "Riquelme",
+    "salario": 14500,
+    "VALOR_ATAQUE": 26,
+    "VALOR_DEFENSA": 9,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "tirarCentro": false,
+    "marcaje": false,
+    "nombre": "Fernando",
+    "Apellido": "Belluschi",
+    "salario": 6700,
+    "VALOR_ATAQUE": 18,
+    "VALOR_DEFENSA": 12,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "tirarCentro": false,
+    "marcaje": false,
+    "nombre": "Fernando",
+    "Apellido": "Gago",
+    "salario": 13800,
+    "VALOR_ATAQUE": 25,
+    "VALOR_DEFENSA": 7,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "tirarCentro": false,
+    "marcaje": false,
+    "nombre": "Diego",
+    "Apellido": "Villar",
+    "salario": 4000,
+    "VALOR_ATAQUE": 15,
+    "VALOR_DEFENSA": 8,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "tirarCentro": false,
+    "marcaje": false,
+    "nombre": "Leonardo",
+    "Apellido": "Ponzio",
+    "salario": 12500,
+    "VALOR_ATAQUE": 24,
+    "VALOR_DEFENSA": 15,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "tirarCentro": false,
+    "marcaje": false,
+    "nombre": "Ivan",
+    "Apellido": "Marcone",
+    "salario": 6200,
+    "VALOR_ATAQUE": 20,
+    "VALOR_DEFENSA": 13,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "tirarCentro": false,
+    "marcaje": false,
+    "nombre": "Leandro",
+    "Apellido": "Romagnoli",
+    "salario": 5500,
+    "VALOR_ATAQUE": 21,
+    "VALOR_DEFENSA": 9,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "tirarCentro": false,
+    "marcaje": false,
+    "nombre": "Leandro",
+    "Apellido": "Somoza",
+    "salario": 2900,
+    "VALOR_ATAQUE": 15,
+    "VALOR_DEFENSA": 14,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "tirarCentro": false,
+    "marcaje": false,
+    "nombre": "Pablo",
+    "Apellido": "Luguercio",
+    "salario": 4700,
+    "VALOR_ATAQUE": 16,
+    "VALOR_DEFENSA": 15,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "tirarCentro": false,
+    "marcaje": false,
+    "nombre": "Ignacio",
+    "Apellido": "Fernandez",
+    "salario": 8500,
+    "VALOR_ATAQUE": 23,
+    "VALOR_DEFENSA": 11,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "tirarCentro": false,
+    "marcaje": false,
+    "nombre": "Rodolfo",
+    "Apellido": "Montenegro",
+    "salario": 5000,
+    "VALOR_ATAQUE": 28,
+    "VALOR_DEFENSA": 10,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "tirarCentro": false,
+    "marcaje": false,
+    "nombre": "Maximiliano",
+    "Apellido": "Mezza",
+    "salario": 3200,
+    "VALOR_ATAQUE": 17,
+    "VALOR_DEFENSA": 8,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "tirarCentro": false,
+    "marcaje": false,
+    "nombre": "Ricardo",
+    "Apellido": "Centurion",
+    "salario": 11400,
+    "VALOR_ATAQUE": 25,
+    "VALOR_DEFENSA": 3,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "tirarCentro": false,
+    "marcaje": false,
+    "nombre": "Enzo",
+    "Apellido": "Perez",
+    "salario": 10000,
+    "VALOR_ATAQUE": 22,
+    "VALOR_DEFENSA": 12,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "tirarCentro": false,
+    "marcaje": false,
+    "nombre": "Lucas",
+    "Apellido": "Biglia",
+    "salario": 9700,
+    "VALOR_ATAQUE": 20,
+    "VALOR_DEFENSA": 13,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "tirarCentro": false,
+    "marcaje": false,
+    "nombre": "Leandro",
+    "Apellido": "Paredes",
+    "salario": 8800,
+    "VALOR_ATAQUE": 18,
+    "VALOR_DEFENSA": 15,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "tirarCentro": false,
+    "marcaje": false,
+    "nombre": "Adrian Pelado",
+    "Apellido": "Bastia",
+    "salario": 6600,
+    "VALOR_ATAQUE": 19,
+    "VALOR_DEFENSA": 11,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "tirarCentro": false,
+    "marcaje": false,
+    "nombre": "Javier",
+    "Apellido": "Mascherano",
+    "salario": 14000,
+    "VALOR_ATAQUE": 15,
+    "VALOR_DEFENSA": 22,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  }
+]

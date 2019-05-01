@@ -1,0 +1,102 @@
+[
+  {
+    "atajarPelota": false,
+    "nombre": "Marcelo",
+    "Apellido": "Barovero",
+    "salario": 3800,
+    "VALOR_ATAQUE": 4,
+    "VALOR_DEFENSA": 32,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "atajarPelota": false,
+    "nombre": "Agustin",
+    "Apellido": "Orion",
+    "salario": 5200,
+    "VALOR_ATAQUE": 7,
+    "VALOR_DEFENSA": 36,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "atajarPelota": false,
+    "nombre": "Agustin",
+    "Apellido": "Rossi",
+    "salario": 2500,
+    "VALOR_ATAQUE": 3,
+    "VALOR_DEFENSA": 24,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "atajarPelota": false,
+    "nombre": "Sebastian",
+    "Apellido": "Torrico",
+    "salario": 3100,
+    "VALOR_ATAQUE": 5,
+    "VALOR_DEFENSA": 30,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "atajarPelota": false,
+    "nombre": "Sergio",
+    "Apellido": "Romero",
+    "salario": 6500,
+    "VALOR_ATAQUE": 2,
+    "VALOR_DEFENSA": 42,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "atajarPelota": false,
+    "nombre": "Franco",
+    "Apellido": "Armani",
+    "salario": 4700,
+    "VALOR_ATAQUE": 1,
+    "VALOR_DEFENSA": 38,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "atajarPelota": false,
+    "nombre": "Mariano",
+    "Apellido": "Andujar",
+    "salario": 2900,
+    "VALOR_ATAQUE": 4,
+    "VALOR_DEFENSA": 29,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "atajarPelota": false,
+    "nombre": "Oscar",
+    "Apellido": "Ustari",
+    "salario": 3000,
+    "VALOR_ATAQUE": 6,
+    "VALOR_DEFENSA": 22,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "atajarPelota": false,
+    "nombre": "Sebastian",
+    "Apellido": "Saja",
+    "salario": 9800,
+    "VALOR_ATAQUE": 5,
+    "VALOR_DEFENSA": 45,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "atajarPelota": false,
+    "nombre": "Sebastian",
+    "Apellido": "Moyano",
+    "salario": 8100,
+    "VALOR_ATAQUE": 2,
+    "VALOR_DEFENSA": 41,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  }
+]

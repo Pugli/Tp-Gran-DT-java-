@@ -1,0 +1,202 @@
+[
+  {
+    "meterGol": false,
+    "nombre": "Leonel",
+    "Apellido": "Messi",
+    "salario": 35000,
+    "VALOR_ATAQUE": 45,
+    "VALOR_DEFENSA": 5,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "meterGol": false,
+    "nombre": "Santiago Morro",
+    "Apellido": "Garcia",
+    "salario": 12000,
+    "VALOR_ATAQUE": 34,
+    "VALOR_DEFENSA": 8,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "meterGol": false,
+    "nombre": "Carlitos",
+    "Apellido": "Tevez",
+    "salario": 7000,
+    "VALOR_ATAQUE": 30,
+    "VALOR_DEFENSA": 10,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "meterGol": false,
+    "nombre": "Ignacio",
+    "Apellido": "Scocco",
+    "salario": 13000,
+    "VALOR_ATAQUE": 35,
+    "VALOR_DEFENSA": 8,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "meterGol": false,
+    "nombre": "Nicolas",
+    "Apellido": "Blandi",
+    "salario": 4200,
+    "VALOR_ATAQUE": 27,
+    "VALOR_DEFENSA": 6,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "meterGol": false,
+    "nombre": "Sebastian",
+    "Apellido": "Driussi",
+    "salario": 5900,
+    "VALOR_ATAQUE": 32,
+    "VALOR_DEFENSA": 8,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "meterGol": false,
+    "nombre": "Gustavo",
+    "Apellido": "Bou",
+    "salario": 5400,
+    "VALOR_ATAQUE": 29,
+    "VALOR_DEFENSA": 10,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "meterGol": false,
+    "nombre": "Marcos",
+    "Apellido": "Ruben",
+    "salario": 8000,
+    "VALOR_ATAQUE": 32,
+    "VALOR_DEFENSA": 9,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "meterGol": false,
+    "nombre": "Cristian",
+    "Apellido": "Pavon",
+    "salario": 11500,
+    "VALOR_ATAQUE": 32,
+    "VALOR_DEFENSA": 12,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "meterGol": false,
+    "nombre": "Mariano",
+    "Apellido": "Pavone",
+    "salario": 4800,
+    "VALOR_ATAQUE": 29,
+    "VALOR_DEFENSA": 10,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "meterGol": false,
+    "nombre": "Rodrigo",
+    "Apellido": "Mora",
+    "salario": 7000,
+    "VALOR_ATAQUE": 30,
+    "VALOR_DEFENSA": 10,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "meterGol": false,
+    "nombre": "Lautaro",
+    "Apellido": "Martinez",
+    "salario": 10000,
+    "VALOR_ATAQUE": 32,
+    "VALOR_DEFENSA": 10,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "meterGol": false,
+    "nombre": "Dario",
+    "Apellido": "Cvitanich",
+    "salario": 3800,
+    "VALOR_ATAQUE": 27,
+    "VALOR_DEFENSA": 12,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "meterGol": false,
+    "nombre": "Dario",
+    "Apellido": "Benedetto",
+    "salario": 6300,
+    "VALOR_ATAQUE": 28,
+    "VALOR_DEFENSA": 8,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "meterGol": false,
+    "nombre": "Lautaro",
+    "Apellido": "Acosta",
+    "salario": 5700,
+    "VALOR_ATAQUE": 29,
+    "VALOR_DEFENSA": 9,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "meterGol": false,
+    "nombre": "Lucas",
+    "Apellido": "Prato",
+    "salario": 8000,
+    "VALOR_ATAQUE": 31,
+    "VALOR_DEFENSA": 12,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "meterGol": false,
+    "nombre": "Fernando",
+    "Apellido": "Telechea",
+    "salario": 6500,
+    "VALOR_ATAQUE": 29,
+    "VALOR_DEFENSA": 9,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "meterGol": false,
+    "nombre": "German",
+    "Apellido": "Denis",
+    "salario": 4000,
+    "VALOR_ATAQUE": 27,
+    "VALOR_DEFENSA": 9,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "meterGol": false,
+    "nombre": "Lucas",
+    "Apellido": "Viatri",
+    "salario": 3500,
+    "VALOR_ATAQUE": 26,
+    "VALOR_DEFENSA": 8,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "meterGol": false,
+    "nombre": "Mauro",
+    "Apellido": "Zarate",
+    "salario": 4200,
+    "VALOR_ATAQUE": 28,
+    "VALOR_DEFENSA": 9,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  }
+]

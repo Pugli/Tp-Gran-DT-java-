@@ -1,0 +1,222 @@
+[
+  {
+    "quitarPelota": false,
+    "Cabezaso": false,
+    "nombre": "Jonathan",
+    "Apellido": "Maidana",
+    "salario": 8000,
+    "VALOR_ATAQUE": 7,
+    "VALOR_DEFENSA": 18,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "quitarPelota": false,
+    "Cabezaso": false,
+    "nombre": "Javier",
+    "Apellido": "Pinola",
+    "salario": 7500,
+    "VALOR_ATAQUE": 6,
+    "VALOR_DEFENSA": 16,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "quitarPelota": false,
+    "Cabezaso": false,
+    "nombre": "Emanuel",
+    "Apellido": "Mas",
+    "salario": 5800,
+    "VALOR_ATAQUE": 4,
+    "VALOR_DEFENSA": 15,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "quitarPelota": false,
+    "Cabezaso": false,
+    "nombre": "Gino",
+    "Apellido": "Peruzzi",
+    "salario": 4500,
+    "VALOR_ATAQUE": 4,
+    "VALOR_DEFENSA": 13,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "quitarPelota": false,
+    "Cabezaso": false,
+    "nombre": "Marcos",
+    "Apellido": "Rojo",
+    "salario": 9000,
+    "VALOR_ATAQUE": 9,
+    "VALOR_DEFENSA": 17,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "quitarPelota": false,
+    "Cabezaso": false,
+    "nombre": "Nicolas",
+    "Apellido": "Otamendi",
+    "salario": 12500,
+    "VALOR_ATAQUE": 13,
+    "VALOR_DEFENSA": 25,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "quitarPelota": false,
+    "Cabezaso": false,
+    "nombre": "Alan",
+    "Apellido": "Alegre",
+    "salario": 1400,
+    "VALOR_ATAQUE": 3,
+    "VALOR_DEFENSA": 9,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "quitarPelota": false,
+    "Cabezaso": false,
+    "nombre": "Leandro",
+    "Apellido": "Desabato",
+    "salario": 6700,
+    "VALOR_ATAQUE": 8,
+    "VALOR_DEFENSA": 15,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "quitarPelota": false,
+    "Cabezaso": false,
+    "nombre": "Guillermo",
+    "Apellido": "Ortiz",
+    "salario": 6000,
+    "VALOR_ATAQUE": 8,
+    "VALOR_DEFENSA": 14,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "quitarPelota": false,
+    "Cabezaso": false,
+    "nombre": "Federico",
+    "Apellido": "Fazio",
+    "salario": 11200,
+    "VALOR_ATAQUE": 11,
+    "VALOR_DEFENSA": 22,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "quitarPelota": false,
+    "Cabezaso": false,
+    "nombre": "Lisandro",
+    "Apellido": "Magallan",
+    "salario": 6200,
+    "VALOR_ATAQUE": 7,
+    "VALOR_DEFENSA": 14,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "quitarPelota": false,
+    "Cabezaso": false,
+    "nombre": "Ivan",
+    "Apellido": "Pillud",
+    "salario": 7000,
+    "VALOR_ATAQUE": 9,
+    "VALOR_DEFENSA": 18,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "quitarPelota": false,
+    "Cabezaso": false,
+    "nombre": "Washington",
+    "Apellido": "Camacho",
+    "salario": 4200,
+    "VALOR_ATAQUE": 4,
+    "VALOR_DEFENSA": 13,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "quitarPelota": false,
+    "Cabezaso": false,
+    "nombre": "Gonzalo",
+    "Apellido": "Bettini",
+    "salario": 3800,
+    "VALOR_ATAQUE": 4,
+    "VALOR_DEFENSA": 12,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "quitarPelota": false,
+    "Cabezaso": false,
+    "nombre": "Jonathan",
+    "Apellido": "Galvan",
+    "salario": 6100,
+    "VALOR_ATAQUE": 8,
+    "VALOR_DEFENSA": 17,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "quitarPelota": false,
+    "Cabezaso": false,
+    "nombre": "Lucas",
+    "Apellido": "Litch",
+    "salario": 5500,
+    "VALOR_ATAQUE": 4,
+    "VALOR_DEFENSA": 15,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "quitarPelota": false,
+    "Cabezaso": false,
+    "nombre": "Cristian",
+    "Apellido": "Anzaldi",
+    "salario": 4200,
+    "VALOR_ATAQUE": 3,
+    "VALOR_DEFENSA": 14,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "quitarPelota": false,
+    "Cabezaso": false,
+    "nombre": "Luciano",
+    "Apellido": "Abecasis",
+    "salario": 3200,
+    "VALOR_ATAQUE": 3,
+    "VALOR_DEFENSA": 10,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "quitarPelota": false,
+    "Cabezaso": false,
+    "nombre": "Fabricio",
+    "Apellido": "Coloccini",
+    "salario": 5200,
+    "VALOR_ATAQUE": 7,
+    "VALOR_DEFENSA": 15,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  },
+  {
+    "quitarPelota": false,
+    "Cabezaso": false,
+    "nombre": "Federico",
+    "Apellido": "Mancinelli",
+    "salario": 3100,
+    "VALOR_ATAQUE": 4,
+    "VALOR_DEFENSA": 10,
+    "valorAtaqueFinal": 0.0,
+    "valorDefensaFinal": 0.0
+  }
+]
